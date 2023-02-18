@@ -1,6 +1,6 @@
 package HomeWork1_OOP;
 
-public class Main {
+/*public class Main {
     public static void main(String[] args) {
         VendingMachine vendingMachine = new VendingMachine();
         vendingMachine.addProduct(new Product("Lays",123.55))
@@ -47,4 +47,4 @@ public class Main {
         System.out.println(vendingMachine);
 
     }
-}
+}*/

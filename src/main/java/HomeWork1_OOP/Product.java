@@ -30,5 +30,3 @@ public class Product {
         return String.format("name = %s; price = %.2f;", name, price);
     }
 }
-Footer
-        © 2023 GitHub, Inc.

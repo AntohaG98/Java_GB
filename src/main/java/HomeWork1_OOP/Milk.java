@@ -1,7 +1,8 @@
 package HomeWork1_OOP;
 
+/*
 public class Milk {
-    public class Milk extends Product{
+    public static class Milk extends Product{
 
         private Double fatContent;
 
@@ -28,3 +29,4 @@ public class Milk {
         }
     }
 }
+*/
