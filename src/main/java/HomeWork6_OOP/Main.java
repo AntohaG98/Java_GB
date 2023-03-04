@@ -1,8 +1,8 @@
 package HomeWork6_OOP;
 
-import controllers.NoteController;
-import model.*;
-import views.ViewNote;
+import HomeWork6_OOP.controllers.NoteController;
+import HomeWork6_OOP.model.*;
+import HomeWork6_OOP.views.ViewNote;
 
 public class Main {
     public static void main(String[] args) {

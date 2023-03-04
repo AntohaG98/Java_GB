@@ -1,8 +1,8 @@
 package HomeWork6_OOP.controllers;
 
-import model.Fields;
-import model.Note;
-import model.Repository;
+import HomeWork6_OOP.model.Fields;
+import HomeWork6_OOP.model.Note;
+import HomeWork6_OOP.model.Repository;
 import java.util.List;
 import java.util.Objects;
 
